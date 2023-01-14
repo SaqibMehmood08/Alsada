@@ -1,0 +1,13 @@
+.transit{
+ width: 140px;
+    transition: width,1s ;
+    }
+   
+    .transit:hover
+    {
+        width: 400px;
+    }
+    input[type="radio" ] {
+ cursor: pointer;
+    }
+  
